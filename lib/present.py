@@ -11,3 +11,5 @@ class Present:
         if self.contents is None:
             raise Exception("No contents have been wrapped.")
         return self.contents
+    
+    
