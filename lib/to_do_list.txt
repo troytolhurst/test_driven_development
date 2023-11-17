@@ -1,0 +1,15 @@
+As a user
+So that I can keep track of my tasks
+I want a program that I can add todo tasks to and see a list of them.
+
+As a user
+So that I can focus on tasks to complete
+I want to mark tasks as complete and have them disappear from the list.
+
+Class signature: 
+needs to add tasks
+return a list of them
+a complete function when there done they be removed of the list
+make sure there are no duplicate tasks. 
+a list of dictionaries, key value pair, task name: what i need to do: 
+
